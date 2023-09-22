@@ -1,5 +1,5 @@
 {
-  "name": "Running Balance for Chase_manifest3",
+  "name": "Running Balance for Chase",
   "description": "Adds running balance column to credit card transaction history in Chase Online Banking",
   "version": "3.0.0",
   "manifest_version": 3,
