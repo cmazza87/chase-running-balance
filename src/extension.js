@@ -7,7 +7,7 @@ var main = function () {
     "Year to date",
   ];
   var getActivityTable = () =>
-    $ ? $("#activityTablesingleOVDAccountActivity") : null;
+      $ ? $("#activityTableHeaderslideInActivity").closest("table") : null;
 
   var runs = 0;
 
