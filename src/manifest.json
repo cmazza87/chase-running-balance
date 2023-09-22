@@ -24,7 +24,8 @@
         "https://secure07a.chase.com/web/auth/*",
         "https://secure07b.chase.com/web/auth/*",
         "https://secure07c.chase.com/web/auth/*",
-        "https://secure07c.chase.com/web/auth/*"
+        "https://secure07c.chase.com/web/auth/*",
+        "https://secure07ea.chase.com/web/auth/*"
       ],
       "js": ["extension.js"]
     }
